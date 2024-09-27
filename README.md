@@ -7,6 +7,10 @@
 </head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
+<img src="https://ibb.co/Qnhw1HY">
+<br>
+<br>
+
 <div align="center">
   <p><strong>Programming Student at 42 Madrid 💻 | Data Engineer</strong></p>
   <p>I am always looking for new experiences and learning opportunities. Currently, I am studying at 42 Madrid, an institution that stands out for its innovative approach to technology education. I love immersing myself in programming and technology and I'm excited about the many exciting opportunities this industry has to offer.</p>
