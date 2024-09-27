@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230908122953/How-to-Become-Data-Engineer.png" alt="Javier's Profile Picture" height="300px" width="700px"/>
+      <img src="https://github.com/javiperlo/javiperlo/blob/main/assets/skills.png" alt="Javier's Profile Picture" height="300px" width="700px"/>
     </td>
     <td>
       <table>
