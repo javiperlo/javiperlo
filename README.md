@@ -15,9 +15,10 @@
   <p>I am always looking for new experiences and learning opportunities. Currently, I am studying at 42 Madrid, an institution that stands out for its innovative approach to technology education. I love immersing myself in programming and technology and I'm excited about the many exciting opportunities this industry has to offer.</p>
 </div>
 
+
 <div align="center">
   <a href="https://www.linkedin.com/in/javierperezz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <td><img src="https://skillicons.dev/icons?i=linkedin" alt="AWS" width="40px"/></td>
   </a>
 </div>
 
@@ -67,17 +68,29 @@
   </tr>
 </table>
 
----
-
 ### 🕹️ Other Tools I Use
 
-<p>
-  <td><img src="https://skillicons.dev/icons?i=git" alt="Python" width="40px"/></td>
-  <td><img src="https://skillicons.dev/icons?i=linux" alt="Python" width="40px"/></td>
-  <td><img src="https://skillicons.dev/icons?i=bash" alt="Python" width="40px"/></td>
-  <td><img src="https://skillicons.dev/icons?i=vscode" alt="Python" width="40px"/></td>
-</p>
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center; width: 25%;">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40px" />
+      <br>Git
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40px" />
+      <br>Linux
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40px" />
+      <br>Bash
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40px" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
----
+### 🧠 Favourite Quote
 
 > "The only way to do great work is to love what you do." - Steve Jobs
