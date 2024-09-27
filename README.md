@@ -20,33 +20,42 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Skills & Profile
 
 <table>
   <tr>
-    <th>Language</th>
-    <th>Proficiency</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Intermediate</td>
-    <td><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40px"/></td>
-  </tr>
-  <tr>
-    <td>C</td>
-    <td>Intermediate</td>
-    <td><img src="https://skillicons.dev/icons?i=c" alt="C" width="40px"/></td>
-  </tr>
-  <tr>
-    <td>SQL</td>
-    <td>Intermediate</td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40px"/></td>
-  </tr>
-  <tr>
-    <td>AWS</td>
-    <td>Intermediate</td>
-    <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40px"/></td>
+    <td>
+      <img src="https://via.placeholder.com/150" alt="Javier's Profile Picture" height="300px" width="700px"/>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>Language</th>
+          <th>Proficiency</th>
+          <th>Tools</th>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td>Intermediate</td>
+          <td><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40px"/></td>
+        </tr>
+        <tr>
+          <td>C</td>
+          <td>Intermediate</td>
+          <td><img src="https://skillicons.dev/icons?i=c" alt="C" width="40px"/></td>
+        </tr>
+        <tr>
+          <td>SQL</td>
+          <td>Intermediate</td>
+          <td><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40px"/></td>
+        </tr>
+        <tr>
+          <td>AWS</td>
+          <td>Intermediate</td>
+          <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40px"/></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
