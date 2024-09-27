@@ -7,7 +7,7 @@
 </head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<img src="">
+<img src="https://github.com/javiperlo/javiperlo/blob/main/assets/banner_git.png">
 <br>
 <br>
 
