@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/javiperlo/javiperlo/blob/main/assets/skills.png" alt="Javier's Profile Picture" height="300px" width="700px"/>
+      <img src="https://github.com/javiperlo/javiperlo/blob/main/assets/skills.png" alt="Javier's Profile Picture""/>
     </td>
     <td>
       <table>
