@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Skills & Profile
+### 🛠️ Skills
 
 <table>
   <tr>
