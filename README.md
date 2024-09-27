@@ -9,10 +9,9 @@
 
 <img src="https://github.com/javiperlo/javiperlo/blob/main/assets/banner_red_mejorado.png">
 <br>
-<br>
 
 <div align="center">
-  <p><strong>Programming Student at 42 Madrid 💻 | Data Engineer</strong></p>
+  <p><strong><u>Programming Student at 42 Madrid 💻 | Data Engineer</u></strong></p>
   <p>I am always looking for new experiences and learning opportunities. Currently, I am studying at 42 Madrid, an institution that stands out for its innovative approach to technology education. I love immersing myself in programming and technology and I'm excited about the many exciting opportunities this industry has to offer.</p>
 </div>
 
