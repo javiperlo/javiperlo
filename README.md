@@ -64,12 +64,14 @@
 
 ---
 
-### 🛠️ Other Tools I Use
+### 🕹️ Other Tools I Use
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40px" style="padding-right:10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40px" style="padding-right:10px;" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40px" style="padding-right:10px;" />
+  <td><img src="https://skillicons.dev/icons?i=git" alt="Python" width="40px"/></td>
+  <td><img src="https://skillicons.dev/icons?i=linux" alt="Python" width="40px"/></td>
+  <td><img src="https://skillicons.dev/icons?i=bash" alt="Python" width="40px"/></td>
+  <td><img src="https://skillicons.dev/icons?i=vscode" alt="Python" width="40px"/></td>
+  <td><img src="https://skillicons.dev/icons?i=cpp" alt="Python" width="40px"/></td>
 </p>
 
 ---
