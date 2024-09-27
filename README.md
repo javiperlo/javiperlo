@@ -47,6 +47,11 @@
           <td>Intermediate</td>
           <td><img src="https://skillicons.dev/icons?i=c" alt="C" width="40px"/></td>
         </tr>
+         <tr>
+          <td>CPP</td>
+          <td>Beginner</td>
+          <td><img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="40px"/></td>
+        </tr>
         <tr>
           <td>SQL</td>
           <td>Intermediate</td>
@@ -71,7 +76,6 @@
   <td><img src="https://skillicons.dev/icons?i=linux" alt="Python" width="40px"/></td>
   <td><img src="https://skillicons.dev/icons?i=bash" alt="Python" width="40px"/></td>
   <td><img src="https://skillicons.dev/icons?i=vscode" alt="Python" width="40px"/></td>
-  <td><img src="https://skillicons.dev/icons?i=cpp" alt="Python" width="40px"/></td>
 </p>
 
 ---
