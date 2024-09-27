@@ -2,35 +2,64 @@
 <head>
 <body>
 <div align="center">
-<h1> Hi, I'm Javier Pérez </h1>
+  <h1>Hi, I'm Javier Pérez</h1>
 </div>
 </head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-> Programming student. Currently in 42 Madrid 💻 :computer:
- 
-**I am a programming student who is always looking for new experiences and learning. Currently, I am studying at 42 Madrid, an institution that stands out for its innovative approach to technology education. I love immersing myself in the world of programming and technology and am excited about all the exciting opportunities this industry has to offer.**
+<div align="center">
+  <p><strong>Programming Student at 42 Madrid 💻 | Data Engineer</strong></p>
+  <p>I am always looking for new experiences and learning opportunities. Currently, I am studying at 42 Madrid, an institution that stands out for its innovative approach to technology education. I love immersing myself in programming and technology and I'm excited about the many exciting opportunities this industry has to offer.</p>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierperez3d/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/javierperezz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
-### 	:thought_balloon:Languages and Tools
+### 🛠️ Skills
 
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
-<br />
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Proficiency</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Intermediate</td>
+    <td><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40px"/></td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Intermediate</td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C" width="40px"/></td>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <td>Intermediate</td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40px"/></td>
+  </tr>
+  <tr>
+    <td>AWS</td>
+    <td>Intermediate</td>
+    <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40px"/></td>
+  </tr>
+</table>
 
-#
+---
 
-### 📊 My Stats
+### 🛠️ Other Tools I Use
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiperlo&theme=light&show_icons=true)
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40px" style="padding-right:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40px" style="padding-right:10px;" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40px" style="padding-right:10px;" />
+</p>
 
-#
+---
 
-~~~
-"The only way to do great work is to love what you do." - Steve Jobs
-~~~
+> "The only way to do great work is to love what you do." - Steve Jobs
