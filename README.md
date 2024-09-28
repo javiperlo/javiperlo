@@ -91,6 +91,27 @@
   </tr>
 </table>
 
+### 🛠️ My Projects
+
+<table style="width: 100%;">
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Technologies</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Cursus 42</td>
+    <td>Projects from the Common Core of 42 Madrid</td>
+    <td>C, C++</td>
+    <td><a href="https://github.com/javiperlo/project1">GitHub</a></td>
+  </tr>
+</table>
+
 ### 🧠 Favourite Quote
 
 > "The only way to do great work is to love what you do." - Steve Jobs
+
+
+
+
