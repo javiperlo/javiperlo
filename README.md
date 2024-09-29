@@ -104,7 +104,7 @@
     <td>Cursus 42</td>
     <td>Projects from the Common Core of 42 Madrid</td>
     <td>C, C++</td>
-    <td><a href="https://github.com/javiperlo/project1">GitHub</a></td>
+    <td><a href="https://github.com/javiperlo/Cursus_42">Cursus 42</a></td>
   </tr>
 </table>
 
