@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/javiperlo/javiperlo/blob/main/assets/skills.png" alt="Javier's Profile Picture""/>
+      <img src="https://github.com/javiperlo/javiperlo/blob/main/assets/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(3).png" alt="Javier's Profile Picture""/>
     </td>
     <td>
       <table>
