@@ -7,7 +7,7 @@
 </head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<img src="https://github.com/javiperlo/javiperlo/blob/main/assets/banner_red_sin_qr.png">
+<img src="https://github.com/javiperlo/javiperlo/blob/main/assets/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(3).png">
 <br>
 
 <div align="center">
@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/javiperlo/javiperlo/blob/main/assets/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(3).png" alt="Javier's Profile Picture""/>
+      <img src="https://github.com/javiperlo/javiperlo/blob/main/assets/skills.png" alt="Javier's Profile Picture""/>
     </td>
     <td>
       <table>
