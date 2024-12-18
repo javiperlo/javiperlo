@@ -49,9 +49,9 @@
           <td><img src="https://skillicons.dev/icons?i=c" alt="C" width="40px"/></td>
         </tr>
          <tr>
-          <td>CPP</td>
-          <td>Beginner</td>
-          <td><img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="40px"/></td>
+          <td>Excel</td>
+          <td>Intermediate</td>
+          <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40px"/></td>
         </tr>
         <tr>
           <td>SQL</td>
