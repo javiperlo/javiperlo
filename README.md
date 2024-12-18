@@ -88,6 +88,10 @@
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40px" />
       <br>VS Code
     </td>
+    <td style="text-align: center; width: 25%;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40px" />
+      <br>Power BI
+    </td>
   </tr>
 </table>
 
