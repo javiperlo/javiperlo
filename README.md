@@ -110,6 +110,12 @@
     <td>C, C++</td>
     <td><a href="https://github.com/javiperlo/Cursus_42">Cursus 42</a></td>
   </tr>
+    <tr>
+    <td>My Data Porfolio</td>
+    <td>Portfolio that showcase my Data experience</td>
+    <td>SQL, Python, SQL, Power BI</td>
+    <td><a href="https://github.com/javiperlo/Cursus_42">Data Portfolio</a></td>
+  </tr>
 </table>
 
 ### 🧠 Favourite Quote
