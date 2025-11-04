@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <p><strong><u>Data Science and AI Master's Student at [ENAE Business School](https://www.enae.es/) 💻</u></strong></p>
+  <p><strong><u>Data Science and AI Master's Student at ENAE Business School 💻</u></strong></p>
   <p>I am always looking for new experiences and learning opportunities. Currently, I am studying a Data Science and AI Master's Degree at ENAE Business School, an institution that stands out for its innovative approach to technology education. I love immersing myself in programming and technology and I'm excited about the many exciting opportunities this industry has to offer.</p>
 </div>
 
