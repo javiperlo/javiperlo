@@ -59,9 +59,9 @@
           <td><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40px"/></td>
         </tr>
         <tr>
-          <td>AWS</td>
-          <td>Intermediate</td>
-          <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40px"/></td>
+          <td>Docker</td>
+          <td>Advanced</td>
+          <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40px"/></td>
         </tr>
       </table>
     </td>
