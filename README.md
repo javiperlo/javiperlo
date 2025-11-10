@@ -110,11 +110,17 @@
     <td>C, C++</td>
     <td><a href="https://github.com/javiperlo/Cursus_42">Cursus 42</a></td>
   </tr>
-    <tr>
+  <tr>
     <td>My Data Porfolio</td>
     <td>Portfolio that showcase my Data experience</td>
     <td>SQL, Python, SQL, Power BI</td>
     <td><a href="https://github.com/javiperlo/My-Data-Portfolio">Data Portfolio</a></td>
+  </tr>
+  <tr>
+    <td>Script AI</td>
+    <td>Churn Prediction + Email Generation with AI</td>
+    <td>Python, Docker, FastAPI, Pandas, SCKitLearn, Matplotlib</td>
+    <td><a href="https://github.com/javiperlo/script_ai">Script AI</td>
   </tr>
 </table>
 
