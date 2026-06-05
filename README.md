@@ -145,6 +145,12 @@
   <td>C, C++</td>
   <td><a href="https://github.com/javiperlo/Cursus_42">Cursus 42</a></td>
 </tr>
+<tr>
+  <td>Veterinary Clinic RAG Agent</td>
+  <td>Conversational AI agent for veterinary appointment scheduling — LangChain tool use + RAG (FAISS) + FastAPI, deployed on Vercel</td>
+  <td>langchain, rag, llm, fastapi, openai, ai-agent, python</td>
+  <td><a href="https://github.com/javiperlo/vet-clinic-rag-agent">Veterinary Clinic RAG Agent</a></td>
+</tr>
 </table>
 
 ---
